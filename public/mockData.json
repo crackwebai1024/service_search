@@ -1,0 +1,104 @@
+{
+  "data":[
+    {
+        "site": "Sitecostructor.io",
+        "promocode": "itpromocodes1",
+        "activated":false
+    },
+    {
+      "site": "Appvision.com",
+      "promocode": "itpromocodes2",
+      "activated":false
+    },
+    {
+      "site": "Analytics.com",
+      "promocode": "itpromocodes3",
+      "activated":false
+    },
+    {
+      "site": "Logotype",
+      "promocode": "itpromocodes4",
+      "activated":false
+    },
+    {
+      "site": "SearchFrame",
+      "promocode": "itpromocodes5",
+      "activated":false
+    },
+    {
+      "site": "Visionview.com",
+      "promocode": "itpromocodes6",
+      "activated":false
+    },
+    {
+      "site": "Searchtype.io",
+      "promocode": "itpromocodes7",
+      "activated":false
+    },
+    {
+      "site": "SeeMaster.com",
+      "promocode": "itpromocodes8",
+      "activated":false
+    },
+    {
+      "site": "CheckManager.io",
+      "promocode": "itpromocodes9",
+      "activated":false
+    },
+    {
+      "site": "Whatruns.com",
+      "promocode": "itpromocodes10",
+      "activated":false
+    },
+    {
+      "site": "Wappalzar.io",
+      "promocode": "itpromocodes11",
+      "activated":false
+    },
+    {
+      "site": "Zahra.io",
+      "promocode": "itpromocodes12",
+      "activated":false
+    },
+    {
+      "site": "Motionspeed.com",
+      "promocode": "itpromocodes13",
+      "activated":false
+    },
+    {
+      "site": "Speedometer.io",
+      "promocode": "itpromocodes14",
+      "activated":false
+    },
+    {
+      "site": "Chemock.com",
+      "promocode": "itpromocodes15",
+      "activated":false
+    },
+    {
+      "site": "MockSum.io",
+      "promocode": "itpromocodes16",
+      "activated":false
+    },
+    {
+      "site": "SeeAll.io",
+      "promocode": "itpromocodes17",
+      "activated":false
+    },
+    {
+      "site": "Analyzer.com",
+      "promocode": "itpromocodes18",
+      "activated":false
+    },
+    {
+      "site": "Bootify.com",
+      "promocode": "itpromocodes19",
+      "activated":false
+    },
+    {
+      "site": "BoostLater.io",
+      "promocode": "itpromocodes20",
+      "activated":false
+    }
+  ]
+}
